@@ -1,1 +1,1 @@
-# Advance-ML-How-to-win-a-data-sciende-competition-
+# Advance-ML-How-to-win-a-data-science-competition-
